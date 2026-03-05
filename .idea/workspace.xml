@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Basic Setup" />
+    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Setup Part 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_file.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ian-roundkicker/CS4412_Spring26_Project.git",
-    "accountId": "90ff5d43-8efa-4ec8-800d-d3b2d8771bd5"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ian-roundkicker&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ian-roundkicker/CS4412_Spring26_Project.git&quot;,
+    &quot;accountId&quot;: &quot;90ff5d43-8efa-4ec8-800d-d3b2d8771bd5&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -39,13 +49,14 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ian Blanchard/PycharmProjects/CS4412_Spring26_Project/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ian Blanchard/PycharmProjects/CS4412_Spring26_Project/docs&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ian Blanchard\PycharmProjects\CS4412_Spring26_Project\docs" />
       <recent name="C:\Users\Ian Blanchard\PycharmProjects\CS4412_Spring26_Project\data" />
     </key>
   </component>
@@ -70,7 +81,10 @@
       <workItem from="1772553621595" duration="9659000" />
       <workItem from="1772564165950" duration="3212000" />
       <workItem from="1772643530349" duration="2683000" />
-      <workItem from="1772652913043" duration="1264000" />
+      <workItem from="1772652913043" duration="2680000" />
+      <workItem from="1772670773449" duration="6799000" />
+      <workItem from="1772724792846" duration="1288000" />
+      <workItem from="1772726120541" duration="1929000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Setup">
       <option name="closed" value="true" />
@@ -96,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772654866357</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Setup Part 2">
+      <option name="closed" value="true" />
+      <created>1772655364228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772655364228</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Setup" />
+    <MESSAGE value="Setup Part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Part 2" />
   </component>
 </project>
