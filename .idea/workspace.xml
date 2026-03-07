@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Created script to group by user_id">
+    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Fixed script to make a JSON file on user picture-posing habits to run in a reasonable amount of time. Added script below to describe said dataset.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_file.ipynb" afterDir="false" />
     </list>
@@ -94,7 +94,8 @@
       <workItem from="1772740414707" duration="16000" />
       <workItem from="1772740924948" duration="309000" />
       <workItem from="1772746578255" duration="11864000" />
-      <workItem from="1772759205023" duration="3790000" />
+      <workItem from="1772759205023" duration="4323000" />
+      <workItem from="1772841744921" duration="7640000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Setup">
       <option name="closed" value="true" />
@@ -144,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772750252343</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed script to make a JSON file on user picture-posing habits to run in a reasonable amount of time. Added script below to describe said dataset.">
+      <option name="closed" value="true" />
+      <created>1772763425202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772763425202</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +164,7 @@
     <MESSAGE value="Setup Part 2" />
     <MESSAGE value="Created Distribution of Pictures Per Review, and basic statistics" />
     <MESSAGE value="Created script to group by user_id" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created script to group by user_id" />
+    <MESSAGE value="Fixed script to make a JSON file on user picture-posing habits to run in a reasonable amount of time. Added script below to describe said dataset." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed script to make a JSON file on user picture-posing habits to run in a reasonable amount of time. Added script below to describe said dataset." />
   </component>
 </project>
