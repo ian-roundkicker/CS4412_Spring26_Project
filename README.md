@@ -1,10 +1,4 @@
 # CS4412_Spring26_Project
-Data mining of 1.48 million Google Restaurant reviews
+This project is aimed toward an analysis of a dataset of 24 million Google reviews. This project aims to answer three interrelated discovery questions, two of which are related to discovering groups of reviewers and businesses respectively. The last asks which users and restaurants exhibit anomalous behavior.
 
-Data source is:
-Personalized Showcases: Generating Multi-Modal Explanations for Recommendations
-An Yan, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian Mcauley
-arXiv:2207.00422, 2022
-pdf
-
-Link: https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal_restaurants/image_review_all.json
+Link: https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/
