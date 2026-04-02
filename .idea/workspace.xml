@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Now uses NearestNeighbors to create a graph showing elbow to get epsilon. Added M2 pdf">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Updated README.md to reflect current dataset and objective">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_file.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,9 @@
     &quot;accountId&quot;: &quot;90ff5d43-8efa-4ec8-800d-d3b2d8771bd5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -65,7 +69,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
         <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
@@ -97,7 +100,12 @@
       <workItem from="1772841744921" duration="12370000" />
       <workItem from="1772906277711" duration="29411000" />
       <workItem from="1772983384827" duration="26889000" />
-      <workItem from="1773027850947" duration="10307000" />
+      <workItem from="1773027850947" duration="10367000" />
+      <workItem from="1773172037850" duration="58000" />
+      <workItem from="1773945288005" duration="12000" />
+      <workItem from="1773945346754" duration="162000" />
+      <workItem from="1774880081968" duration="713000" />
+      <workItem from="1774973521527" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Setup">
       <option name="closed" value="true" />
@@ -195,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773042354865</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updated README.md to reflect current dataset and objective">
+      <option name="closed" value="true" />
+      <created>1773042618913</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773042618913</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +228,7 @@
     <MESSAGE value="Now can use DBSCAN to identify outliers. Shows results with scatter plot." />
     <MESSAGE value="Now uses NearestNeighbors to create a graph showing elbow to get epsilon" />
     <MESSAGE value="Now uses NearestNeighbors to create a graph showing elbow to get epsilon. Added M2 pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now uses NearestNeighbors to create a graph showing elbow to get epsilon. Added M2 pdf" />
+    <MESSAGE value="Updated README.md to reflect current dataset and objective" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md to reflect current dataset and objective" />
   </component>
 </project>
