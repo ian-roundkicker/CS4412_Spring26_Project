@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="">
+    <list default="true" id="ddc8f029-cff6-41bb-9dba-7e1bcb241c2e" name="Changes" comment="Added .md analyzing anomalies. More work will need to be done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_file.ipynb" afterDir="false" />
     </list>
@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,20 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ian Blanchard/PycharmProjects/CS4412_Spring26_Project/docs&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "business__clustering__v2__test",
+    "last_opened_file_path": "C:/Users/Ian Blanchard/PycharmProjects/CS4412_Spring26_Project/docs",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.python.group.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ian Blanchard\PycharmProjects\CS4412_Spring26_Project\docs" />
@@ -227,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775171382088</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added .md analyzing anomalies. More work will need to be done.">
+      <option name="closed" value="true" />
+      <created>1775359622860</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1775359622860</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +260,7 @@
     <MESSAGE value="Updated README.md to reflect current dataset and objective" />
     <MESSAGE value="Improved earlier phases of project and analyzed DBSCAN clusters." />
     <MESSAGE value="Implemented K-Means clustering on dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented K-Means clustering on dataset" />
+    <MESSAGE value="Added .md analyzing anomalies. More work will need to be done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .md analyzing anomalies. More work will need to be done." />
   </component>
 </project>
